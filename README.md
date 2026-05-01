@@ -67,7 +67,7 @@ User → Attribute → Dynamic Group (ABAC) → Group Assignment (RBAC) → AWS 
 - Verified lifecycle events using Azure Entra ID audit logs, confirming automated access changes during Joiner, Mover, and Leaver events
 
   
-## 📸 Screenshots
+
 
 ### 👤 User Creation
 
